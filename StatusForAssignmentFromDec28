@@ -1,0 +1,11 @@
+1) EC2
+   execute Java helloworld example Y
+   
+2) S3
+   upload a file Y
+    https://nab-bais-bucket.s3.amazonaws.com/public+static+void+main.txt
+   upload a static web site Y
+    https://nab-bais-bucket.s3.amazonaws.com/html-freebie-agency-perfect-master/index.html
+   
+3) Deploy sample app using Elastic Beanstalk N
+    
